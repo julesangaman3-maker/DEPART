@@ -1,0 +1,25 @@
+J06 — Preuve d’exécution
+
+Commande réellement lancée dans Windows PowerShell :
+node .\depenses.js
+
+Sortie obtenue après avoir terminé le programme :
+[Collez ici le rapport complet, y compris le tableau avant et après le tri.]
+
+S C:\Users\DELL\Documents\depart> node depenses.js
+Tableau initial avant le tri : 1500,2500,0,4000,1000,2500,3000
+
+Total des dépenses : 14500 FCFA
+
+Moyenne des dépenses : 2071.4285714285716 FCFA par jour
+
+Les dépenses supérieur à 2000: 2500,4000,2500,3000 FCFA
+
+la plus grande dépense : 4000 FCFA
+
+Dépenses triées : 0,1000,1500,2500,2500,3000,4000 FCFA
+
+ableau après le tri : 1500,2500,0,4000,1000,2500,3000
+
+Archive à remettre : J06_Nom_Prenom.zip
+Contenu attendu : depenses.js et preuves.txt
